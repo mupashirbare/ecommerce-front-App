@@ -1,3 +1,4 @@
+import React from "react";
 function ProductCard({ product, addToCart }) {
     return (
       <div className="bg-white p-4 shadow rounded-lg">
